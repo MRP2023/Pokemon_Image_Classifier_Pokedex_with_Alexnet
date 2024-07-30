@@ -6,6 +6,10 @@ link: https://www.kaggle.com/datasets/hlrhegemony/pokemon-image-dataset?resource
 
 Screenshot:
 
+![Working test case One:](![image_2024_07_17T10_40_53_684Z](https://github.com/user-attachments/assets/762f3642-3dab-42e9-abc8-3ba56a854944)
+)
+
+
 ![Test Case One: ](![image_2024_07_17T10_40_53_684Z.png](![image_2024_07_17T10_40_53_684Z](https://github.com/user-attachments/assets/ee787c8e-7df7-4a1d-9e91-f0982477a68a))
 ![Test Case Two: ](![image_2024_07_17T10_52_46_341Z.png](![image_2024_07_17T10_52_46_341Z](https://github.com/user-attachments/assets/61687a36-9892-4f50-bf5d-034ea0edaa58))
 ![Test Case Three: ](![image_2024_07_17T11_21_52_865Z.png](![image_2024_07_17T11_21_52_865Z](https://github.com/user-attachments/assets/ce1349fd-bc2a-42f6-b06b-21a167b83e51))
